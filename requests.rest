@@ -1,0 +1,12 @@
+POST http://localhost:5000/createurl
+Accept: application/json
+Content-Type: application/json
+
+{
+    "full_url": "https://www.google.com",
+    "custom_url": "google"
+}
+
+###
+
+GET http://localhost:5000/geturl
