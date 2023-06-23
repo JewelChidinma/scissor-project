@@ -3,10 +3,18 @@ Accept: application/json
 Content-Type: application/json
 
 {
-    "full_url": "https://www.google.com",
-    "custom_url": "google"
+    "full_url": "https://www.google.com"
 }
 
 ###
 
 GET http://localhost:5000/geturl
+
+###
+POST http://localhost:5000/signup
+content-Type: application/json
+
+{
+    "email": "email@email.com",
+    "password": "password12"
+}
