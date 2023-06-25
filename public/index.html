@@ -5,6 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel = "stylesheet" href = "/style.css">
+    <script>
+        if (localStorage.getItem('authToken')){
+    window.location.replace('/dashboard.html')
+}
+    </script>
     <title>Ceez</title>
 </head>
 <body>
@@ -47,7 +52,7 @@
         </div>
     </div>
     <script>
-        let loginBtn= document.getElementById('login-btn')
+let loginBtn= document.getElementById('login-btn')
 let signupBtn= document.getElementById('signup-btn')
 let emailField= document.getElementById('email')
 let passField= document.getElementById('password')
