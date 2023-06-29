@@ -1,6 +1,6 @@
 # Scissor Project
 
-This is a API that lets you shorten long URLs into shorter and more manageable links. It was built using Node.js, Express, MongoDB and provides a straightforward API for shortening URLs.
+This is an API that lets you shorten long URLs into shorter and more manageable links. It was built using Node.js, Express, MongoDB and provides a straightforward API for shortening URLs.
 
 # Features
 
