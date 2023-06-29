@@ -18,11 +18,19 @@ Optional customizable URL for personalized short links.
   <pre> cd cissor-project </pre>
 
 3. Install the necessary dependencies:
-   <pre> npm install </pre>
+  <pre> npm install </pre>
    
 4. Create a .env file based on the provided .env.example file and set the necessary environment variables.
 
 5. Start the server:
-   <pre> npm run dev </pre>
+  <pre> npm run dev </pre>
 
 The URL Shortener server will be running locally at `http://localhost:5000`.
+
+# Credits
+
+The Scissor Project was created by Jewel Chidinma
+
+# Contact
+
+Contact me at jewelchidinma@gmail.com
