@@ -1,4 +1,4 @@
-#﻿ scissor-project
+#﻿ Scissor Project
 
 This is a API that lets you shorten long URLs into shorter and more manageable links. It was built using Node.js, Express, MongoDB and provides a straightforward API for shortening URLs.
 
@@ -12,7 +12,7 @@ Optional customizable URL for personalized short links.
 # Installation
 
 1. Clone the repository:
-  git clone https://github.com/JewelChidinma/scissor-project.git
+  `git clone https://github.com/JewelChidinma/scissor-project.git`
 
 2. Navigate into the project directory:
   cd cissor-project
