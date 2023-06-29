@@ -12,7 +12,7 @@ Optional customizable URL for personalized short links.
 # Installation
 
 1. Clone the repository:
-  <pre> ```git clone https://github.com/JewelChidinma/scissor-project.git``` </pre>
+  <pre> git clone https://github.com/JewelChidinma/scissor-project.git </pre>
 
 2. Navigate into the project directory:
   cd cissor-project
