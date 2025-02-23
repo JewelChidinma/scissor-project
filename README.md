@@ -15,7 +15,7 @@ Optional customizable URL for personalized short links.
   <pre> git clone https://github.com/JewelChidinma/scissor-project.git </pre>
 
 2. Navigate into the project directory:
-  <pre> cd cissor-project </pre>
+  <pre> cd scissor-project </pre>
 
 3. Install the necessary dependencies:
   <pre> npm install </pre>
